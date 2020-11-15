@@ -3,7 +3,7 @@
 </div>
 
 
-<table>
+<table align="center">
   <tbody>
     <tr valign="top">
       <td width="25%" align="center">

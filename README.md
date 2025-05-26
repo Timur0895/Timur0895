@@ -30,35 +30,38 @@
 <td valign="top" width="33%">
 
 <b>💻 Backend, Data & Automation</b><br>
-&nbsp;• 🐍 Python (aiogram, FastAPI, Flask)<br>
-&nbsp;• 🤖 Telegram Bots (aiogram, pyTelegramBotAPI)<br>
-&nbsp;• 🔗 API интеграции: Facebook Ads, TikTok Ads, Google Sheets, OpenAI<br>
-&nbsp;• 🐼 Pandas, 🐦 Seaborn, 🔢 Numpy<br>
-&nbsp;• 🗄️ SQL, MySQL<br>
-&nbsp;• 📊 gspread, Google Apps Script<br>
-&nbsp;• 📈 Power BI, Tableau<br>
-&nbsp;• 🤖⚡ ML-проекты, прогнозирование (sklearn)
+<br>
+&nbsp;➤ 🐍 Python (aiogram, FastAPI, Flask)<br>
+&nbsp;➤ 🤖 Telegram Bots (aiogram, pyTelegramBotAPI)<br>
+&nbsp;➤ 🔗 API интеграции: Facebook Ads, TikTok Ads, Google Sheets, OpenAI<br>
+&nbsp;➤ 🐼 Pandas, 🐦 Seaborn, 🔢 Numpy<br>
+&nbsp;➤ 🗄️ SQL, MySQL<br>
+&nbsp;➤ 📊 gspread, Google Apps Script<br>
+&nbsp;➤ 📈 Power BI, Tableau<br>
+&nbsp;➤ 🤖⚡ ML-проекты, прогнозирование (sklearn)
 
 </td>
 </td>
 <td valign="top" width="33%">
 
 <b>⚙️ DevOps & Productivity</b><br>
-&nbsp;• 🐳 Docker, 📦 Docker Compose<br>
-&nbsp;• 🗂️ Git, 🐙 GitHub, 🦊 GitLab, 🔁 CI/CD<br>
-&nbsp;• 🐧 Linux (base)<br>
-&nbsp;• 📅 Google Workspace (GSheets, Drive, Calendar)<br>
-&nbsp;• 🤝 Автоматизация процессов<br>
-&nbsp;• 💬 Telegram Ecosystem (форумы, группы, вебхуки)
+<br>
+&nbsp;➤ 🐳 Docker, 📦 Docker Compose<br>
+&nbsp;➤ 🗂️ Git, 🐙 GitHub, 🦊 GitLab, 🔁 CI/CD<br>
+&nbsp;➤ 🐧 Linux (base)<br>
+&nbsp;➤ 📅 Google Workspace (GSheets, Drive, Calendar)<br>
+&nbsp;➤ 🤝 Автоматизация процессов<br>
+&nbsp;➤ 💬 Telegram Ecosystem (форумы, группы, вебхуки)
 
 </td>
 <td valign="top" width="33%">
 
 <b>🌐 Frontend</b><br>
-&nbsp;• 🖥️ HTML5, 🎨 CSS3, 🅱️ Bootstrap, 🌪️ Tailwind<br>
-&nbsp;• 💡 JavaScript (base)<br>
-&nbsp;• 📝 Jinja2, шаблонизация для Python web<br>
-&nbsp;• 📱 Работа с адаптивной версткой
+<br>
+&nbsp;➤ 🖥️ HTML5, 🎨 CSS3, 🅱️ Bootstrap, 🌪️ Tailwind<br>
+&nbsp;➤ 💡 JavaScript (base)<br>
+&nbsp;➤ 📝 Jinja2, шаблонизация для Python web<br>
+&nbsp;➤ 📱 Работа с адаптивной версткой
 
 </tr>
 </table>

@@ -17,7 +17,6 @@
   height: "179cm";
   display: developer;
   hobbies: ["🎮 gamer", "🏋️ sport", "🍥 anime", "🎧 music"];
-  mindset: "Stay curious";
   motto: "Code. Automate. Repeat.";
   status: "Deploying...";
 }

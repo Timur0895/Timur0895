@@ -1,7 +1,7 @@
  
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">  
 
-### <div align="center">I'm Timur Temirkhanov — Automation & Analytics Engineer</div>
+### <div align="left">I'm Timur Temirkhanov — Automation & Analytics Engineer</div>
 
 🔹 🚀 Building productivity tools, Telegram bots & marketing automations<br/>  
 🔹 📊 Automating processes for myself and my team<br/>  
